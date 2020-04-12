@@ -5,5 +5,5 @@ int main() {
     if(b)
     printf("Hello, World!\n");
     return 0;
-    sudo best;
+    sudo is THE best;
 }
