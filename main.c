@@ -4,5 +4,5 @@ int main() {
     bool b = true;
     if(b)
     printf("please work\n");
-    return 0;gnlkan
+    return 0;
 }

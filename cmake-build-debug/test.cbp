@@ -78,7 +78,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/rond/Desktop/רון/טכניון/מבוא לתכנות מערכות/test/test/cmake-build-debug/set.c">
+			<Option target="test"/>
+		</Unit>
 		<Unit filename="/Users/rond/Desktop/רון/טכניון/מבוא לתכנות מערכות/test/test/main.c">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/Users/rond/Desktop/רון/טכניון/מבוא לתכנות מערכות/test/test/set.h">
 			<Option target="test"/>
 		</Unit>
 		<Unit filename="/Users/rond/Desktop/רון/טכניון/מבוא לתכנות מערכות/test/test/CMakeLists.txt">

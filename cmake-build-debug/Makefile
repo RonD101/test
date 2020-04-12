@@ -150,6 +150,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/main.c.s
 .PHONY : main.c.s
 
+set.o: set.c.o
+
+.PHONY : set.o
+
+# target to build an object file
+set.c.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/set.c.o
+.PHONY : set.c.o
+
+set.i: set.c.i
+
+.PHONY : set.i
+
+# target to preprocess a source file
+set.c.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/set.c.i
+.PHONY : set.c.i
+
+set.s: set.c.s
+
+.PHONY : set.s
+
+# target to generate assembly for a file
+set.c.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/set.c.s
+.PHONY : set.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... set.o"
+	@echo "... set.i"
+	@echo "... set.s"
 .PHONY : help
 
 
