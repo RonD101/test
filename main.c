@@ -5,5 +5,4 @@ int main() {
     if(b)
     printf("Hello, World!\n");
     return 0;
-    sudo is THE best;
 }
