@@ -3,6 +3,6 @@
 int main() {
     bool b = true;
     if(b)
-    printf("Hello, World!\n");
+    printf("please work\n");
     return 0;
 }
