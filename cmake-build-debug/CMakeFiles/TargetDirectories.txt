@@ -1,0 +1,3 @@
+/Users/rond/Desktop/רון/טכניון/מבוא לתכנות מערכות/test/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rond/Desktop/רון/טכניון/מבוא לתכנות מערכות/test/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rond/Desktop/רון/טכניון/מבוא לתכנות מערכות/test/test/cmake-build-debug/CMakeFiles/test.dir
